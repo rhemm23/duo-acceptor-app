@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DuoAcceptor</string>
+    <string name="service_name">DuoNotificationListenerService</string>
+</resources>
